@@ -1,6 +1,8 @@
 # Positive-or-Negative
 Using python to determine if text is positive or negative.
 
+Test online: https://replit.com/@NikolaGj/Positive-or-Negative
+
 Code will return a positive or negative percentage.
 
 Code returns:
